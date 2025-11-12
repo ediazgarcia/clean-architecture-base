@@ -1,0 +1,24 @@
+# Build y dependencias
+bin/
+obj/
+out/
+
+# Configuración de usuario de Visual Studio
+.vs/
+*.user
+*.suo
+
+# Archivos temporales
+*.log
+*.tmp
+*.cache
+
+# Configuración de Rider/JetBrains
+.idea/
+
+# Archivos de sistema
+Thumbs.db
+.DS_Store
+
+# Secretos y variables de entorno
+.env

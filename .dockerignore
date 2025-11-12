@@ -1,0 +1,24 @@
+# Ignorar binarios y compilados
+bin/
+obj/
+
+# Ignorar configuraciones locales
+.vs/
+*.user
+*.suo
+
+# Ignorar archivos de sistema
+Thumbs.db
+.DS_Store
+
+# Ignorar Git y documentación
+.git/
+.gitignore
+README.md
+
+# Ignorar Docker Compose (no necesario dentro de la imagen)
+docker-compose.yml
+docker-compose.override.yml
+
+# Ignorar secretos
+.env
