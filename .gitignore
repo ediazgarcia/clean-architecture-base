@@ -22,3 +22,7 @@ Thumbs.db
 
 # Secretos y variables de entorno
 .env
+
+# Archivos de build/debug temporales
+build_errors*.txt
+test_results.txt

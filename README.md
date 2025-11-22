@@ -1,14 +1,3 @@
-# 🏗️ Clean Architecture Base - Guía Completa para Principiantes
-
-> Una plantilla de .NET 8 implementando Clean Architecture con CRUD completo, SQL Server y tests unitarios.
-
-[![.NET](https://img.shields.io/badge/.NET-8.0-blue)](https://dotnet.microsoft.com/)
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-Ready-green)](https://www.microsoft.com/sql-server)
-[![Tests](https://img.shields.io/badge/Tests-10%20Passing-brightgreen)](tests/)
-
----
-
-## 📚 Tabla de Contenidos
 
 - [¿Qué es este proyecto?](#-qué-es-este-proyecto)
 - [¿Qué es Clean Architecture?](#-qué-es-clean-architecture)
@@ -74,7 +63,7 @@ Imagina que estás construyendo una casa:
 ## 📁 Estructura del Proyecto
 
 ```
-clean-architecture-base-1/
+clean-architecture-base/
 │
 ├── src/                                    # Código fuente
 │   ├── Core/                              # Núcleo de la aplicación
